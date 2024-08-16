@@ -1,36 +1,60 @@
-# HR Analytics Dashboard
+# HR Analytics and Super Store Sales Dashboards
 
 ## Overview
+This project comprises two powerful dashboards: an HR Analytics Dashboard and a Super Store Sales Dashboard. Both are designed to provide comprehensive insights for data-driven decision-making in their respective domains.
 
-This powerful HR Analytics Dashboard provides a comprehensive view of employee data, focusing on attrition trends and workforce demographics. Built with Microsoft Power BI, it offers real-time insights to help HR professionals and managers make data-driven decisions.
+## HR Analytics Dashboard
 
-## Key Features
+### Key Features
+- At-a-Glance Metrics: Total employees, attrition numbers, attrition rate, average age, salary, and tenure.
+- Attrition Analysis: By education, age, salary, years of service, and job role.
+- Interactive Visualizations: Intuitive charts and graphs.
+- Department Filtering: Toggle between HR, R&D, and Sales.
 
-- **At-a-Glance Metrics:** Instantly view critical KPIs including total employee count, attrition numbers, attrition rate, average age, salary, and tenure.
-- **Attrition Analysis:** Deep dive into attrition patterns by education, age, salary, years of service, and job role.
-- **Interactive Visualizations:** Leverage charts and graphs for intuitive data exploration.
-- **Department Filtering:** Toggle between Human Resources, Research & Development, and Sales for department-specific insights.
+### Dashboard Components
+- Summary Statistics
+- Attrition by Education
+- Attrition by Age
+- Job Role Analysis
+- Salary Impact
+- Tenure Trends
+- Gender Distribution
 
-## Dashboard Components
+### Business Impact
+- Identify high-risk employee segments
+- Optimize retention strategies
+- Inform recruitment and succession planning
+- Guide compensation decisions
+- Enhance workforce management
 
-- **Summary Statistics:** Key metrics displayed prominently at the top.
-- **Attrition by Education:** Pie chart breaking down departures by educational background.
-- **Attrition by Age:** Bar chart showing which age groups are most affected.
-- **Job Role Analysis:** Detailed breakdown of attrition across different roles and levels.
-- **Salary Impact:** Visualize how compensation relates to employee turnover.
-- **Tenure Trends:** Line graph illustrating attrition patterns based on years of service.
-- **Gender Distribution:** Quick view of male vs. female attrition by age group.
+### Technical Details
+- Platform: Microsoft Power BI
 
-## Business Impact
+## Super Store Sales Dashboard
 
-- Identify high-risk employee segments.
-- Optimize retention strategies.
-- Inform recruitment and succession planning.
-- Guide compensation and benefits decisions.
-- Enhance overall workforce management.
+### Key Features
+- Regional Sales Analysis: Central, East, South, West regions
+- Sales Segmentation: By customer segment, payment mode, and shipping mode
+- Profit Tracking: Monthly and daily profit trends
+- Product Performance: Sales by category and sub-category
 
-## Technical Details
+### Dashboard Components
+- Sum of Sales by Segment: Home Office, Consumer, Corporate
+- Sum of Sales by Payment Mode: Cards, COD, Online
+- Sum of Profit by Month and Day: 2019 vs 2020 comparison
+- Sum of Sales by Month and Day: Detailed daily trends
+- Sum of Sales by Ship Mode: Standard Class, Second Class, First Class, Same Day
+- Sum of Sales by Sub-Category: Phones, Binders, Chairs
+- Sum of Sales by Category: Office Supplies, Technology, Furniture
 
-- **Platform:** Microsoft Power BI
+### Business Insights
+- Track sales performance across regions and segments
+- Analyze payment preferences and shipping trends
+- Monitor profit fluctuations over time
+- Identify top-performing product categories and sub-categories
 
-This dashboard is designed to provide actionable insights to improve workforce management and support strategic HR initiatives.
+### Technical Details
+- Built using advanced data visualization tools (specific platform not mentioned in image)
+
+## Overall Project Value
+These dashboards provide actionable insights to improve workforce management, optimize sales strategies, and support data-driven decision-making across HR and sales departments.
