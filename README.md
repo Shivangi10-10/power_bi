@@ -53,8 +53,5 @@ This project comprises two powerful dashboards: an HR Analytics Dashboard and a 
 - Monitor profit fluctuations over time
 - Identify top-performing product categories and sub-categories
 
-### Technical Details
-- Built using advanced data visualization tools (specific platform not mentioned in image)
-
 ## Overall Project Value
 These dashboards provide actionable insights to improve workforce management, optimize sales strategies, and support data-driven decision-making across HR and sales departments.
